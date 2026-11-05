@@ -1,0 +1,9 @@
+Función Saludar (mensaje)
+	Escribir mensaje
+FinFunción
+
+Algoritmo sin_titulo
+	Definir comentario Como Cadena
+	comentario <- 'Hola Todos'
+	Saludar(comentario)
+FinAlgoritmo

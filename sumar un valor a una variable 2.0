@@ -1,0 +1,12 @@
+Función cambioVar (nuevaVar por Referencia)
+	nuevaVar <- nuevaVar+30
+	Escribir 'El valor final es ', nuevaVar;
+FinFunción
+
+Algoritmo sin_titulo
+	Definir num Como Entero;
+	Escribir 'Escribe un número ';
+	Leer num;
+	cambioVar(var)
+	Escribir 'El nuevo valor es ', var;
+FinAlgoritmo
